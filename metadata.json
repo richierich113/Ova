@@ -1,0 +1,6 @@
+{
+  "name": "Ova Cycle Tracker",
+  "description": "A premium Dark Theme Period and Cycle-Syncing Tracker to help optimize your movement, nutrition, and energy throughout your cycle phases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
